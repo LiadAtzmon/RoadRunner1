@@ -9,7 +9,7 @@ public class GAMEOVER : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-        GetComponent<TextMesh>().text = "shahar";
+        GetComponent<TextMesh>().text = "liad";
     }
 	
 	// Update is called once per frame
